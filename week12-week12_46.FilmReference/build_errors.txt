@@ -1,0 +1,6 @@
+
+BUILD FAILED
+E:\CODING\JAVA\MOOC\TMCProjects\2013-OOProgrammingWithJava-PART2\week12-week12_46.FilmReference\nbproject\build-impl.xml:926: The following error occurred while executing this line:
+E:\CODING\JAVA\MOOC\TMCProjects\2013-OOProgrammingWithJava-PART2\week12-week12_46.FilmReference\nbproject\build-impl.xml:268: Error running javac.exe compiler
+
+Total time: 0 seconds
